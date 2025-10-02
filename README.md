@@ -1,4 +1,4 @@
-<h2>Hi, I'm Angelina!👋 
+<h2>Hi, I'm Angelina!<img src="https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/Hi.gif"  width="28px" height="28px"/>
 </h2>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/atihonenko)
