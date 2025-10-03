@@ -34,4 +34,5 @@
 
 <h2>Test Artifacts</h2>
 <ul>
-  <li><a href="https://github.com/atihonenko/Testing-Documentation-Web">Webshop Testing</a> – functional testing</li>
+  <li><a href="https://github.com/atihonenko/testing-documentation-web">Webshop Testing</a> – functional testing</li>
+   <li><a href="https://github.com/atihonenko/sql/blob/main/README.md">MySQL</a> – queries</li>
