@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/atihonenko)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:legnatix675@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-1caef1?style=flat&logo=telegram&logoColor=white&link=https://tme/legnatix)](https://tme/legnatix)
+[![Telegram](https://img.shields.io/badge/Telegram-1caef1?style=flat&logo=telegram&logoColor=white)](https://t.me/legnatix)
 &nbsp;
 <p>I am a Software QA Engineer. Here I share web and mobile testing portfolio items developed through courses and personal projects.</p>
 
